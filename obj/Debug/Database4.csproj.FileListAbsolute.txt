@@ -1,0 +1,12 @@
+D:\CourseDoc\Database4\bin\Debug\Database4.exe.config
+D:\CourseDoc\Database4\bin\Debug\Database4.exe
+D:\CourseDoc\Database4\bin\Debug\Database4.pdb
+D:\CourseDoc\Database4\bin\Debug\MySql.Data.dll
+D:\CourseDoc\Database4\bin\Debug\Google.Protobuf.dll
+D:\CourseDoc\Database4\bin\Debug\MySql.Data.xml
+D:\CourseDoc\Database4\obj\Debug\Database4.csprojResolveAssemblyReference.cache
+D:\CourseDoc\Database4\obj\Debug\Database4.Form1.resources
+D:\CourseDoc\Database4\obj\Debug\Database4.Properties.Resources.resources
+D:\CourseDoc\Database4\obj\Debug\Database4.csproj.GenerateResource.Cache
+D:\CourseDoc\Database4\obj\Debug\Database4.exe
+D:\CourseDoc\Database4\obj\Debug\Database4.pdb
